@@ -1,60 +1,62 @@
 ---
 layout: page
-title: Privacy Policy
-include_in_header: false
+title: Política de Privacidad
+include_in_header: true
 ---
 
-**Last updated**  
-August 1 2019
+**Última actualización:** 5 de febrero de 2026
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+En **Tu Finiquito Mexicano**, la transparencia y la seguridad de sus datos son nuestra prioridad. Esta Política de Privacidad explica cómo tratamos la información dentro de nuestra aplicación, diseñada para ofrecer simulaciones laborales precisas respetando su privacidad.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+### 1. Información del Responsable
 
-<br>
+*   **Desarrollador:** Israel Perales
+*   **Ubicación:** Apodaca, Nuevo León, México
+*   **Sitio Web:** [https://israel-perales.com](https://israel-perales.com)
+*   **Correo de Soporte:** soporte@israel-perales.com
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+### 2. Privacidad por Diseño
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+Nuestra aplicación opera bajo el principio de "Privacidad por Diseño". Esto significa que la aplicación está construida para funcionar de manera local en su dispositivo móvil.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+*   **Sin transmisión de datos:** No recolectamos, transmitimos ni almacenamos en servidores externos ningún dato personal sensible, como su salario diario, fechas de ingreso/baja, antigüedades o resultados financieros de sus simulaciones.
+*   **Procesamiento local:** Todos los cálculos se realizan exclusivamente utilizando el procesador de su dispositivo.
 
-<br>
+### 3. Almacenamiento Local
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+Utilizamos el almacenamiento interno de su dispositivo únicamente para mejorar la funcionalidad de la aplicación:
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+*   **Historial:** Los datos de sus últimos 10 cálculos se guardan localmente para su referencia rápida.
+*   **Favoritos:** Los cálculos que usted marca como favoritos se almacenan en su dispositivo para acceso futuro.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+Estos datos son propiedad exclusiva del usuario y no salen de su dispositivo en ningún momento a través de nuestros sistemas.
 
-<br>
+### 4. Servicios de Terceros (Publicidad)
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+Para mantener el desarrollo de este proyecto, utilizamos servicios de terceros para la visualización de anuncios:
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+*   Podemos utilizar proveedores como **Appodeal** o **Google AdMob**.
+*   Estos servicios pueden recopilar y procesar identificadores de publicidad anónimos (Advertising ID) y datos técnicos del dispositivo para mostrar publicidad relevante y medir el rendimiento de los anuncios.
+*   La recopilación de estos datos se rige por las políticas de privacidad de los respectivos proveedores de publicidad.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+### 5. Enlaces Externos y Recursos Educativos
 
-<br>
+La aplicación incluye enlaces directos a fuentes oficiales del Gobierno de México (como PROFEDET o textos de la Ley Federal del Trabajo) con fines puramente educativos.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+*   No somos responsables de las prácticas de privacidad ni del contenido de estos sitios externos.
+*   Se recomienda al usuario revisar las políticas de privacidad de cualquier sitio externo que visite.
 
-<br>
+### 6. Derechos ARCO y Control del Usuario
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+Dado que **Tu Finiquito Mexicano** no gestiona una base de datos centralizada de usuarios ni almacena información personal en la nube:
+
+*   Usted tiene control absoluto sobre sus datos.
+*   Para ejercer sus derechos de cancelación u oposición, simplemente puede eliminar los registros dentro de la app (Historial/Favoritos) o desinstalar la aplicación completamente. Esto eliminará de forma definitiva toda la información asociada a la app en su dispositivo.
+
+---
+
+### Deslinde de Responsabilidad Legal
+
+> **Tu Finiquito Mexicano es una herramienta de simulación informativa. Los cálculos se basan en la Ley Federal del Trabajo de México y no constituyen una asesoría legal formal.**
+>
+> Los resultados son estimaciones basadas en los datos proporcionados por el usuario y deben ser utilizados solo como referencia. Recomendamos consultar a un profesional o a la autoridad laboral competente para casos legales específicos.
