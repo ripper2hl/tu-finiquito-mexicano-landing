@@ -1,7 +1,7 @@
 # ====================================================
 # Page Meta
 # ====================================================
-page_title: My Awesome App                       # Optional. Defaults to app_name if empty
+page_title: Tu Finiquito Mexicano                       # Optional. Defaults to app_name if empty
 
 
 # ====================================================
@@ -11,7 +11,7 @@ playstore_link: https://play.google.com/store/apps/details?id=com.example.myapp
 presskit_download_link:                         # Optional. e.g. assets/presskit.zip
 
 app_icon: assets/appicon.png
-app_name: My Awesome App
+app_name: Tu Finiquito Mexicano
 app_price: Free
 app_description: A beautifully simple app that helps users get things done faster.
 
@@ -30,10 +30,10 @@ latest_changes:                                 # Supports markdown or plain tex
 # ====================================================
 # Author / Company Info (Footer)
 # ====================================================
-your_name: Your Name or Company
-your_link: https://yourwebsite.com
-your_city: Your City
-email_address: contact@yourdomain.com
+your_name: Israel Perales
+your_link: https://israel-perales.com
+your_city: Apodaca, Nuevo León
+email_address: israel-perales@outlook.com
 
 linkedin_username:
 linkedin_company:
