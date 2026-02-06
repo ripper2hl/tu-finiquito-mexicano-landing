@@ -4,59 +4,61 @@ title: Política de Privacidad
 include_in_header: true
 ---
 
+# Política de Privacidad – Tu Finiquito Mexicano
+
 **Última actualización:** 5 de febrero de 2026
 
-En **Tu Finiquito Mexicano**, la transparencia y la seguridad de sus datos son nuestra prioridad. Esta Política de Privacidad explica cómo tratamos la información dentro de nuestra aplicación, diseñada para ofrecer simulaciones laborales precisas respetando su privacidad.
+En **Tu Finiquito Mexicano**, la transparencia y la seguridad de la información del usuario son una prioridad. Esta Política de Privacidad describe cómo se maneja la información dentro de la aplicación, la cual está diseñada para ofrecer simulaciones laborales informativas respetando la privacidad del usuario.
 
-### 1. Información del Responsable
+## 1. Información del Responsable
 
 *   **Desarrollador:** Israel Perales
 *   **Ubicación:** Apodaca, Nuevo León, México
-*   **Sitio Web:** [https://israel-perales.com](https://israel-perales.com)
-*   **Correo de Soporte:** soporte@israel-perales.com
+*   **Sitio web:** [https://israel-perales.com](https://israel-perales.com)
+*   **Correo de soporte:** [israel-perales@outlook.com](mailto:israel-perales@outlook.com)
 
-### 2. Privacidad por Diseño
+## 2. Privacidad por Diseño
 
-Nuestra aplicación opera bajo el principio de "Privacidad por Diseño". Esto significa que la aplicación está construida para funcionar de manera local en su dispositivo móvil.
+La aplicación opera bajo el principio de Privacidad por Diseño, lo que significa que su funcionamiento es principalmente local en el dispositivo del usuario.
 
-*   **Sin transmisión de datos:** No recolectamos, transmitimos ni almacenamos en servidores externos ningún dato personal sensible, como su salario diario, fechas de ingreso/baja, antigüedades o resultados financieros de sus simulaciones.
-*   **Procesamiento local:** Todos los cálculos se realizan exclusivamente utilizando el procesador de su dispositivo.
+*   **Sin transmisión de datos personales:** La aplicación no recopila, transmite ni almacena en servidores externos información personal identificable como nombre, correo electrónico, número telefónico o información financiera.
+*   **Procesamiento local:** Los datos ingresados por el usuario (por ejemplo, salario, fechas laborales o resultados de simulaciones) se procesan exclusivamente en el dispositivo del usuario y no se envían a servidores externos.
 
-### 3. Almacenamiento Local
+## 3. Almacenamiento Local
 
-Utilizamos el almacenamiento interno de su dispositivo únicamente para mejorar la funcionalidad de la aplicación:
+Para mejorar la experiencia de uso, la aplicación puede utilizar almacenamiento interno del dispositivo:
 
-*   **Historial:** Los datos de sus últimos 10 cálculos se guardan localmente para su referencia rápida.
-*   **Favoritos:** Los cálculos que usted marca como favoritos se almacenan en su dispositivo para acceso futuro.
+*   **Historial:** Se guardan localmente los últimos cálculos realizados para referencia del usuario.
+*   **Favoritos:** Los cálculos marcados como favoritos se almacenan en el dispositivo para acceso posterior.
 
-Estos datos son propiedad exclusiva del usuario y no salen de su dispositivo en ningún momento a través de nuestros sistemas.
+Esta información permanece únicamente en el dispositivo del usuario y puede eliminarse en cualquier momento desde la aplicación o desinstalándola.
 
-### 4. Servicios de Terceros (Publicidad)
+## 4. Servicios de Terceros (Publicidad)
 
-Para mantener el desarrollo de este proyecto, utilizamos servicios de terceros para la visualización de anuncios:
+Para apoyar el desarrollo y mantenimiento de la aplicación, se utilizan servicios de terceros para la visualización de anuncios:
 
-*   Podemos utilizar proveedores como **Appodeal** o **Google AdMob**.
-*   Estos servicios pueden recopilar y procesar identificadores de publicidad anónimos (Advertising ID) y datos técnicos del dispositivo para mostrar publicidad relevante y medir el rendimiento de los anuncios.
-*   La recopilación de estos datos se rige por las políticas de privacidad de los respectivos proveedores de publicidad.
+*   La aplicación puede utilizar proveedores como **Google AdMob** o **Appodeal**.
+*   Estos servicios pueden recopilar identificadores de publicidad (Advertising ID) y datos técnicos del dispositivo con fines de personalización de anuncios, medición de rendimiento y detección de errores.
+*   La recopilación y el tratamiento de esta información se rige por las políticas de privacidad de los respectivos proveedores de publicidad.
+*   La aplicación no tiene acceso ni control directo sobre los datos recopilados por estos servicios.
 
-### 5. Enlaces Externos y Recursos Educativos
+## 5. Enlaces Externos y Recursos Informativos
 
-La aplicación incluye enlaces directos a fuentes oficiales del Gobierno de México (como PROFEDET o textos de la Ley Federal del Trabajo) con fines puramente educativos.
+La aplicación puede incluir enlaces a sitios externos, incluyendo recursos informativos oficiales del Gobierno de México (como PROFEDET o textos de la Ley Federal del Trabajo), con fines exclusivamente educativos.
 
-*   No somos responsables de las prácticas de privacidad ni del contenido de estos sitios externos.
+*   La inclusión de estos enlaces no implica afiliación, respaldo ni relación oficial con ninguna dependencia gubernamental.
+*   No somos responsables de las prácticas de privacidad ni del contenido de sitios externos.
 *   Se recomienda al usuario revisar las políticas de privacidad de cualquier sitio externo que visite.
 
-### 6. Derechos ARCO y Control del Usuario
+## 6. Derechos ARCO y Control del Usuario
 
-Dado que **Tu Finiquito Mexicano** no gestiona una base de datos centralizada de usuarios ni almacena información personal en la nube:
+Aunque **Tu Finiquito Mexicano** no gestiona una base de datos centralizada de usuarios ni almacena datos personales en la nube, el usuario conserva sus derechos ARCO (Acceso, Rectificación, Cancelación y Oposición) conforme a la legislación mexicana aplicable.
 
-*   Usted tiene control absoluto sobre sus datos.
-*   Para ejercer sus derechos de cancelación u oposición, simplemente puede eliminar los registros dentro de la app (Historial/Favoritos) o desinstalar la aplicación completamente. Esto eliminará de forma definitiva toda la información asociada a la app en su dispositivo.
+El usuario tiene control total sobre su información y puede ejercer estos derechos eliminando los datos almacenados localmente desde la aplicación o desinstalándola.
 
----
+## 7. Deslinde de Responsabilidad Legal
 
-### Deslinde de Responsabilidad Legal
-
-> **Tu Finiquito Mexicano es una herramienta de simulación informativa. Los cálculos se basan en la Ley Federal del Trabajo de México y no constituyen una asesoría legal formal.**
+> **Tu Finiquito Mexicano es una herramienta de simulación informativa.**
+> **Los cálculos se basan en la Ley Federal del Trabajo de México y no constituyen asesoría legal formal.**
 >
-> Los resultados son estimaciones basadas en los datos proporcionados por el usuario y deben ser utilizados solo como referencia. Recomendamos consultar a un profesional o a la autoridad laboral competente para casos legales específicos.
+> Los resultados son estimaciones basadas en la información proporcionada por el usuario y deben utilizarse únicamente como referencia. Para casos legales específicos, se recomienda consultar a un profesional calificado o a la autoridad laboral competente.
