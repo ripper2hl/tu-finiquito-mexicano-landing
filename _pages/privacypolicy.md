@@ -42,6 +42,8 @@ Para apoyar el desarrollo y mantenimiento de la aplicación, se utilizan servici
 *   La recopilación y el tratamiento de esta información se rige por las políticas de privacidad de los respectivos proveedores de publicidad.
 *   La aplicación no tiene acceso ni control directo sobre los datos recopilados por estos servicios.
 
+La aplicación no combina estos identificadores con información personal identificable del usuario.
+
 ## 5. Enlaces Externos y Recursos Informativos
 
 La aplicación puede incluir enlaces a sitios externos, incluyendo recursos informativos oficiales del Gobierno de México (como PROFEDET o textos de la Ley Federal del Trabajo), con fines exclusivamente educativos.
