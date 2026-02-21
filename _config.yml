@@ -19,7 +19,7 @@ app_description                       : Simulador de finiquito, liquidación y a
 # ====================================================
 # Localization & Dynamic Content
 # ====================================================
-price_text: "Free"                              # Text shown instead of price
+price_text: "Gratis, Sin registro"                              # Text shown instead of price
 changelog_title                       : Novedades
 latest_changes                        : "¡Lanzamiento oficial v1.0! <br>- Calculadora laboral actualizada con tablas de la LFT e ISR para 2026.<br>- Nueva sección de Guía Legal con acceso directo a fuentes oficiales (SAT, DOF, LFT, INEGI).<br>- Se añadió un aviso de deslinde de responsabilidad (Disclaimer) para mayor claridad y transparencia.<br>- Privacidad total: Tus cálculos se procesan de forma local y segura."
 
@@ -29,8 +29,8 @@ latest_changes                        : "¡Lanzamiento oficial v1.0! <br>- Calcu
 # ====================================================
 your_name                             : Israel Perales
 your_link: https://www.israel-perales.com
-your_city: Apodaca, Nuevo León
-email_address: contact@yourdomain.com
+your_city: Nuevo León
+email_address: israel-perales@outlook.com
 
 linkedin_username:
 linkedin_company:
