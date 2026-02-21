@@ -1,39 +1,36 @@
 # ====================================================
 # Page Meta
 # ====================================================
-page_title: Tu Finiquito Mexicano                       # Optional. Defaults to app_name if empty
+page_title                            : Tu Finiquito Mexicano
 
 
 # ====================================================
 # App Info
 # ====================================================
-playstore_link: https://play.google.com/store/apps/details?id=com.example.myapp
+playstore_link                        : https://play.google.com/store/apps/details?id=com.perales.finiquito&hl=es&gl=mx
 presskit_download_link:                         # Optional. e.g. assets/presskit.zip
 
-app_icon: assets/appicon.png
-app_name: Tu Finiquito Mexicano
-app_price: Free
-app_description: A beautifully simple app that helps users get things done faster.
+app_icon                              : assets/appicon.webp
+app_name                              : Tu Finiquito Mexicano
+app_price                             : Gratis
+app_description                       : Simulador de finiquito, liquidación y aguinaldo México 2026. Estimación LFT.
 
 
 # ====================================================
 # Localization & Dynamic Content
 # ====================================================
 price_text: "Free"                              # Text shown instead of price
-changelog_title: "What’s New"
-latest_changes:                                 # Supports markdown or plain text
-  - Initial release
-  - Performance improvements
-  - UI polish
+changelog_title                       : Novedades
+latest_changes                        : "¡Lanzamiento oficial v1.0! <br>- Calculadora laboral actualizada con tablas de la LFT e ISR para 2026.<br>- Nueva sección de Guía Legal con acceso directo a fuentes oficiales (SAT, DOF, LFT, INEGI).<br>- Se añadió un aviso de deslinde de responsabilidad (Disclaimer) para mayor claridad y transparencia.<br>- Privacidad total: Tus cálculos se procesan de forma local y segura."
 
 
 # ====================================================
 # Author / Company Info (Footer)
 # ====================================================
-your_name: Israel Perales
-your_link: https://israel-perales.com
-your_city: Apodaca, Nuevo León
-email_address: israel-perales@outlook.com
+your_name                             : Israel Perales
+your_link: https://yourwebsite.com
+your_city: Your City
+email_address: contact@yourdomain.com
 
 linkedin_username:
 linkedin_company:
@@ -82,7 +79,7 @@ topbar_color: "#000000"
 topbar_transparency: 0.1
 topbar_title_color: "#ffffff"
 
-cover_image: assets/headerimage.png
+cover_image: assets/headerimage.webp
 cover_overlay_color: "#363b3d"
 cover_overlay_transparency: 0.8
 
