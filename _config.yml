@@ -75,35 +75,35 @@ features:
 
 
 # ====================================================
-# Theme Settings
+# Theme Settings (Dark Mode)
 # ====================================================
 topbar_color: "#000000"
 topbar_transparency: 0.1
 topbar_title_color: "#ffffff"
 
 cover_image: assets/headerimage.webp
-cover_overlay_color: "#363b3d"
-cover_overlay_transparency: 0.8
+cover_overlay_color: "#0a0d12"
+cover_overlay_transparency: 0.85
 
-device_color: black                             # Options: blue, black, yellow, coral, white
+device_color: black
 
-body_background_color: "#ffffff"
-link_color: "#1d63ea"
+body_background_color: "#0f1419"
+link_color: "#2fdf75"
 
 app_title_color: "#ffffff"
-app_price_color: "#ffffff"
-app_description_color: "#ffffff"
+app_price_color: "#2fdf75"
+app_description_color: "#e0e5eb"
 
-feature_title_color: "#000000"
-feature_text_color: "#666666"
+feature_title_color: "#ffffff"
+feature_text_color: "#b0b8c1"
 
-feature_icons_foreground_color: "#1d63ea"
-feature_icons_background_color: "#e6e6e6"
+feature_icons_foreground_color: "#2fdf75"
+feature_icons_background_color: "#1f2633"
 
-social_icons_foreground_color: "#666666"
-social_icons_background_color: "#e6e6e6"
+social_icons_foreground_color: "#2fdf75"
+social_icons_background_color: "#1f2633"
 
-footer_text_color: "#666666"
+footer_text_color: "#9ca3af"
 
 
 ####################################################
