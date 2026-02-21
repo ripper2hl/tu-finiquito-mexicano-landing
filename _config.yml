@@ -28,8 +28,8 @@ latest_changes                        : "¡Lanzamiento oficial v1.0! <br>- Calcu
 # Author / Company Info (Footer)
 # ====================================================
 your_name                             : Israel Perales
-your_link: https://yourwebsite.com
-your_city: Your City
+your_link: https://www.israel-perales.com
+your_city: Apodaca, Nuevo León
 email_address: contact@yourdomain.com
 
 linkedin_username:
@@ -47,29 +47,31 @@ mastodon_link:
 # ====================================================
 features:
 
-  - title: Fast & Lightweight
-    description: Optimized for speed and low resource usage.
-    fontawesome_icon_name: bolt
+  - title: Calculadora de Finiquito LFT 2026
+    description: Calcula finiquitos y liquidaciones conforme a la Ley Federal del Trabajo vigente. Indemnización constitucional, 20 días por año y prima de antigüedad.
+    fontawesome_icon_name: calculator
 
-  - title: Clean Interface
-    description: Modern, minimal UI focused on usability.
-    fontawesome_icon_name: mobile-alt
+  - title: Aguinaldo y Prestaciones
+    description: Estima tu aguinaldo proporcional, vacaciones dignas (reforma 2023) y prima vacacional. Valores actualizados para 2026.
+    fontawesome_icon_name: money-bill-wave
 
-  - title: Offline Ready
-    description: Works even when you’re not connected.
-    fontawesome_icon_name: wifi-slash
+  - title: Cálculo de ISR Aproximado
+    description: Simulación de retenciones de impuesto sobre la renta basada en tablas públicas LISR 2026 del SAT.
+    fontawesome_icon_name: receipt
 
-  - title: Easy to Configure
-    description: Customize everything from a single config file.
-    fontawesome_icon_name: sliders-h
-
-  - title: Secure by Design
-    description: Built with best practices for user safety.
+  - title: Privacidad Total Garantizada
+    description: Sin registro requerido. Tus datos se procesan localmente en tu dispositivo. Cero conexión a servidores.
     fontawesome_icon_name: lock
 
-  - title: Free to Use
-    description: No hidden costs or subscriptions.
-    fontawesome_icon_name: star
+  - title: Guía Legal Informativa
+    description: Acceso directo a fuentes oficiales (LFT, DOF, SAT, INEGI) para referencias completas y tranquilidad.
+    fontawesome_icon_name: gavel
+
+  - title: Funciona Sin Internet
+    description: Usa la app completamente offline. Tablas 2026 incluidas. Ideal para consultas rápidas en cualquier momento.
+    fontawesome_icon_name: wifi-slash
+
+
 
 
 # ====================================================
